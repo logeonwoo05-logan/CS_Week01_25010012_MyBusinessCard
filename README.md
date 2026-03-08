@@ -5,7 +5,7 @@
 
 ## 실행 화면
 기본 실행화면
-<img width="449" height="289" alt="스크린샷 2026-03-08 오후 7 46 55" src="https://github.com/user-attachments/assets/23542e30-87a7-4deb-bfcf-cc08ccb4361b" />
+<img width="406" height="274" alt="스크린샷 2026-03-08 오후 7 54 03" src="https://github.com/user-attachments/assets/eb69b00c-543a-42df-b875-eb1f02880de0" />
 
 사진 변경 버튼 누를시 사진 변경
 <img width="434" height="298" alt="스크린샷 2026-03-08 오후 7 47 20" src="https://github.com/user-attachments/assets/06a2c5a8-894c-46e6-a315-e0a9d49e71fa" />
