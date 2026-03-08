@@ -5,12 +5,15 @@
 
 ## 실행 화면
 기본 실행화면
+
 <img width="406" height="274" alt="스크린샷 2026-03-08 오후 7 54 03" src="https://github.com/user-attachments/assets/eb69b00c-543a-42df-b875-eb1f02880de0" />
 
 사진 변경 버튼 누를시 사진 변경
+
 <img width="434" height="298" alt="스크린샷 2026-03-08 오후 7 47 20" src="https://github.com/user-attachments/assets/06a2c5a8-894c-46e6-a315-e0a9d49e71fa" />
 
 마우스 접근시 경계선 스타일 변함
+
 <img width="458" height="291" alt="스크린샷 2026-03-08 오후 7 47 46" src="https://github.com/user-attachments/assets/da30f451-1f26-4767-9613-9b01a44416da" />
 
 ## 구현 시 어려웠던 점
